@@ -1,4 +1,4 @@
-OpenRefine {#openrefine style="text-align:center"}
+OpenRefine
 ==========
 
 Einführung in OpenRefine - Bearbeitung bibliographischer Daten -
@@ -6,14 +6,14 @@ Reconciliation mit Wikidata und (lobid.org/)GND - Upload nach Wikidata
 
 Workshop, Österreichischer Bibliothek\*tag, 12.09.2019
 
-OpenRefine - Start & Installation {#openrefine---start-installation style="text-align:center"}
+OpenRefine - Start & Installation
 =================================
 
 -   JAVA-Applikation zur Bearbeitung tabellarischer Daten
 -   Download und Installation via
     [www.openrefine.org](http://www.openrefine.org)
 
-Datensets im Workshop {#datensets-im-workshop style="text-align:center"}
+Datensets im Workshop
 =====================
 
 -   JSON-Import aus OJS-OAI-Export einer ausgewählten Zeitschrift
@@ -30,7 +30,7 @@ Arbeitsschritte
     -   Join/Split multivalued rows
 -   Textfacette (Costumized facet)
 
-Links {#links style="text-align:center"}
+Links
 =====
 
 -   [OpenRefine.org](http://www.openrefine.org)
