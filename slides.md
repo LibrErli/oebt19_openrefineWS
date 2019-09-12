@@ -27,3 +27,5 @@ Workshop, Österreichischer Bibliothek*tag, 12.09.2019
 
 * [OpenRefine.org](http://www.openrefine.org)
 * [Lib-Carpentry OpenRefine-Tutorial](https://librarycarpentry.org/lc-open-refine/)
+* [OpenRefine GitHub-Repository](https://github.com/OpenRefine/) - Idealer (der einzige) Ort fürs Bugtracking zur Software
+* [OpenRefine@StackOverflow](https://stackoverflow.com/questions/tagged/openrefine) Regelmäßig kleine Tipps und Tricks auf Stack erklärt.
