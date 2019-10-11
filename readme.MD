@@ -6,6 +6,9 @@ Reconciliation mit Wikidata und (lobid.org/)GND - Upload nach Wikidata
 
 Workshop, Österreichischer Bibliothek\*tag, 12.09.2019
 
+[Workshop-Dokumentation](https://librerli.github.io/oebt19_openrefineWS/)
+
+
 OpenRefine - Start & Installation
 =================================
 
